@@ -1,0 +1,25 @@
+.col {
+    border: 1px solid black;
+}
+
+.projects-container {
+    display: flex;
+}
+
+.sean-button {
+    color: #455A64;
+    line-height: 1rem;
+    text-align: center;
+    background: #B7D2E1;
+    border-radius: 4rem;
+    box-shadow: 4px 4px 2px #8ea5b2;
+    border: 2px solid #8ea5b2;
+    height: 2.1rem;
+}
+
+.sean-button:hover{
+    transform: scale(1.05);
+    background: #B7D2E1;
+    color: #455A64;
+    border: 2px solid #8ea5b2;
+}
