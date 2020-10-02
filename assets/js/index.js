@@ -30,8 +30,6 @@ seanContentButton.addEventListener('click', e=>{
     learnMoreButtonAction(quizContent, quizContentButton)
 })
 
-
-
 const learnMoreButtonAction = (contentId, buttonId) =>{
     if(contentId.hidden === true){
         //e.preventDefault()
